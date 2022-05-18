@@ -4,7 +4,7 @@
   height: 52px;
   background-color: #2a2c2f;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 320px) {
   .logo {
     width: 142px;
     height: 42px;
