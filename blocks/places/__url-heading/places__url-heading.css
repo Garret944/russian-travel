@@ -1,4 +1,5 @@
 .places__url-heading {
+  margin-top: 0;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -6,5 +7,5 @@
   letter-spacing: 0.2em;
   color: #aaaaaa;
   text-transform: uppercase;
-  margin-bottom: 5%;
+  margin-bottom: 12px;
 }

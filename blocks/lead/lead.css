@@ -2,6 +2,7 @@
   max-width: 984px;
   position: relative;
   margin: auto;
+  align-items: center;
 }
 @media screen and (max-width: 1024px) {
   .lead {
@@ -10,6 +11,6 @@
 }
 @media screen and (max-width: 768px) {
   .lead {
-    max-width: 720px;
+    max-width: 768px;
   }
 }

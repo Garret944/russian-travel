@@ -1,10 +1,10 @@
 .places__title {
-  width: 50%;
+  max-width: 60%;
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 65px;
+  line-height: 76px;
   color: #ffffff;
   margin: 0;
   margin-right: 2%;
@@ -13,9 +13,9 @@
   .places__title {
     font-size: 40px;
     line-height: 46px;
-    max-width: 325px;
+    max-width: 340px;
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
     margin-bottom: 0;
     margin-right: 0;
   }
@@ -25,7 +25,6 @@
   .places__title {
     font-size: 32px;
     line-height: 35px;
-    max-width: 288px;
     margin-left: 0;
   }
 }

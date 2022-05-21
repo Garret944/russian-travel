@@ -1,19 +1,9 @@
 .footer__navigation {
   display: flex;
   flex-direction: row;
-  margin-left: 48px;
+  margin-left: 0;
 }
 
-@media screen and (max-width: 1024px) {
-  .footer__navigation {
-    margin-left: 48px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .footer__navigation {
-    margin-left: 23px;
-  }
-}
 @media screen and (max-width: 320px) {
   .footer__navigation {
     flex-direction: column;

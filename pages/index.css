@@ -1,7 +1,5 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/inter.css);
-@import url(../blocks/content-subtitle/content-subtitle.css);
-@import url(../blocks/content-title/content-title.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
@@ -14,7 +12,7 @@
 @import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang/header__lang.css);
-@import url(../blocks/header/__lang/_underlined/header__lang_underlined.css);
+@import url(../blocks/header/__lang/_active/header__lang_active.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__content/intro__content.css);
 @import url(../blocks/intro/__numbers/intro__numbers.css);
