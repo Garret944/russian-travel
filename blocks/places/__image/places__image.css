@@ -1,8 +1,8 @@
 .places__image {
-  width: 50%;
-  height: 50%;
+  max-width: 460px;
+  max-height: 460px;
   box-sizing: border-box;
-  padding-right: 20px;
+  padding-right: 40px;
   padding-bottom: 20px;
 }
 @media screen and (max-width: 768px) {

@@ -7,6 +7,7 @@
   padding-bottom: 27px;
   max-width: 484px;
   margin: 0;
+  justify-self: flex-start;
 }
 
 .places__paragraph:last-child {
