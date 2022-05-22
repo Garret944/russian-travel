@@ -2,7 +2,7 @@
   align-self: flex-end;
   width: 50%;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .places__website {
     margin-left: 23px;
   }
@@ -10,10 +10,9 @@
 
 @media screen and (max-width: 767px) {
   .places__website {
-    display: flex;
-    flex-direction: column;
-    margin-left: 0;
     align-self: flex-start;
-    margin-top: 5%;
+    margin: 0;
+    width: auto;
+    margin-top: 32px;
   }
 }

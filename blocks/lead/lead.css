@@ -4,12 +4,12 @@
   margin: auto;
   align-items: center;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1267px) {
   .lead {
     max-width: 928px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .lead {
     max-width: 768px;
   }
