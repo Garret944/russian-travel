@@ -4,6 +4,7 @@
   max-width: 1184px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 0;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 16px;
 }

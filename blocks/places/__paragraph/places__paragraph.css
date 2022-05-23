@@ -10,7 +10,18 @@
   max-width: 484px;
   margin: 0;
 }
-@media screen and (max-width: 1023px) {
+
+.places__paragraph:nth-of-type(2) {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.places__paragraph:last-child {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
   .places__paragraph {
     font-size: 16px;
     line-height: 27px;
@@ -18,7 +29,7 @@
     padding-bottom: 24px;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 600px) {
   .places__paragraph {
     padding: 0;
     margin-top: 24px;
@@ -30,6 +41,6 @@
     line-height: 27px;
     max-width: 352px;
     align-self: auto;
-    margin-bottom: 0;
+    margin-bottom: 1.5vh;
   }
 }
