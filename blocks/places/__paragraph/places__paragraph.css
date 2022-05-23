@@ -37,10 +37,7 @@
 }
 @media screen and (max-width: 320px) {
   .places__paragraph {
-    font-size: 16px;
-    line-height: 27px;
     max-width: 352px;
     align-self: auto;
-    margin-bottom: 1.5vh;
   }
 }

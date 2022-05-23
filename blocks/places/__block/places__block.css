@@ -16,24 +16,18 @@
 }
 @media screen and (max-width: 600px) {
   .places__block {
-    display: flex;
     flex-direction: column;
     margin-bottom: 38px;
   }
 }
 @media screen and (max-width: 375px) {
   .places__block {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 38px;
     margin-right: 0;
   }
 }
 @media screen and (max-width: 320px) {
   .places__block {
     max-width: 320px;
-    display: flex;
-    flex-direction: column;
     margin-bottom: 48px;
   }
 }
