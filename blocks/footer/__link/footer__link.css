@@ -11,7 +11,7 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .footer__link {
     font-size: 24px;
     margin-bottom: 32px;
@@ -20,6 +20,5 @@
   }
 }
 .footer__link:last-child {
-  margin-right: 0;
   margin-bottom: 48px;
 }
